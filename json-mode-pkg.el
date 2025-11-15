@@ -1,2 +1,2 @@
-;; Generated package description from json-mode.el  -*- mode: lisp-data; no-byte-compile: t -*-
-(define-package "json-mode" "0.2.0.20250307.75711" "Major mode for editing JSON files" '((emacs "25.1")) :commit "09775d0d18062742a1a87a9c862fd54115032d2a" :url "https://elpa.gnu.org/packages/json-mode.html" :authors '(("Simen Heggestøyl" . "simenheg@gmail.com")) :maintainer '("Simen Heggestøyl" . "simenheg@gmail.com") :keywords '("data"))
+;; Generated package description from json-mode.el  -*- no-byte-compile: t -*-
+(define-package "json-mode" "0.2.0.20251114.104352" "Major mode for editing JSON files" '((emacs "25.1")) :commit "2b98e9141ab5072b40b91294840bd35eaf32572a" :url "https://elpa.gnu.org/packages/json-mode.html" :authors '(("Simen Heggestøyl" . "simenheg@gmail.com")) :maintainer '("Simen Heggestøyl" . "simenheg@gmail.com") :keywords '("data"))
